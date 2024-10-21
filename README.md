@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/2f7b7e58-ef7b-4c88-95c9-2c0166412dc4)
-<div style="text-align:center"><a href="https://himanshu1529.github.io/react-textutils/">Open Project Link</a></div>
+<div><a style="align-item:center" href="https://himanshu1529.github.io/react-textutils/">Open Project Link</a></div>
 
 
 
